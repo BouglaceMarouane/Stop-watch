@@ -13,21 +13,21 @@ This project is a simple stopwatch application built using Python and PyQt5. It 
 ## ***📷 Screenshots :***
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Stop-watch/blob/7413471c084b2027153002f50d88f5b5a084ba75/stop.png" alt="image alt" />
   <br>
-  <em>Start - Démarrer le compte à rebours.</em>
+  <em>Start - Start the timer.</em>
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io%20(1).png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Stop-watch/blob/7413471c084b2027153002f50d88f5b5a084ba75/clear.png" alt="image alt" />
   <br>
-  <em>Pause - Mettre en pause le compte à rebours.</em>
+  <em>Pause - Pause the timer.</em>
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/COUNT-DOWN-TIMER/blob/9e83d25191378e8f505d92b2ef1498108c667d00/images/iPhone-13-PRO-bouglacemarouane.github.io%20(2).png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Stop-watch/blob/7413471c084b2027153002f50d88f5b5a084ba75/start.png" alt="image alt" />
   <br>
-  <em>Resume/Clear - Reprendre ou réinitialiser le compte à rebours.</em>
+  <em>Clear - Reset the timer.</em>
 </p><br>
 
 ## ***🛠️ Technologies Used :***
