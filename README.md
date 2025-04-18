@@ -25,7 +25,7 @@ This project is a simple stopwatch application built using Python and PyQt5. It 
 </p><br>
 
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Stop-watch/blob/7413471c084b2027153002f50d88f5b5a084ba75/start.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Stop-watch/blob/7413471c084b2027153002f50d88f5b5a084ba75/start.png" alt="image alt"/>
   <br>
   <em>Clear - Reset the timer.</em>
 </p><br>
