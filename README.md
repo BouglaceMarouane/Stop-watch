@@ -32,7 +32,8 @@ This project is a simple stopwatch application built using Python and PyQt5. It 
 
 ## ***🛠️ Technologies Used :***
 
-![Python](https://img.shields.io/badge/PYTHON-blue?logo=Python&logoColor=white) ![PyQt5](https://img.shields.io/badge/PYQT5-green?logo=PyQt5&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-blue?logo=Python&logoColor=white) 
+![PyQt5](https://img.shields.io/badge/PYQT5-green?logo=PyQt5&logoColor=white)
 
 ## ***📦 Installation :***
 
