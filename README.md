@@ -69,3 +69,8 @@ If you find this project helpful, please give it a ⭐ on GitHub. Thank you for 
 - 📧 Email: bouglacemarouane@gmail.com  
 - 🌐 GitHub: [Bouglace Marouane](https://github.com/BouglaceMarouane)
 - 🌍 LinkedIn: [Marouane Bouglace Linkedin](https://www.linkedin.com/in/marouane-bouglace-68b17333b/)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+<br/>
