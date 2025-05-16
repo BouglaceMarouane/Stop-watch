@@ -4,7 +4,6 @@
 This project is a simple stopwatch application built using Python and PyQt5. It provides an intuitive graphical user interface (GUI) for tracking time with precision. The stopwatch includes features to start, stop, and reset the timer, making it ideal for various timing needs.
 
 
-
 ## ***🔧 Features :***
 
 - **▶️ Start Timer** : Begin counting time with millisecond precision.
