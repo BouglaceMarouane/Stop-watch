@@ -13,7 +13,6 @@ This project is a simple stopwatch application built using Python and PyQt5. It 
 
 
 
-
 ## ***🔧 Features :***
 
 - **▶️ Start Timer** : Begin counting time with millisecond precision.
